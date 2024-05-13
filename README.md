@@ -21,7 +21,7 @@ ___
  
 ⚖️ Promoting justice and humanity in the Brazilian penal system, Freedom Chains offers a transparent, secure, and anonymous view of prisoners' behavioral history, strengthening the resocialization process and ensuring the rights of the incarcerated population.
 
-⚙️ Solution developed using NextJS, ReactJs, TypeScript, Scroll
+⚙️ Solution developed using NextJS, ReactJs, TypeScript, Polygon
 
 ## Index
 
@@ -108,9 +108,9 @@ The SWOT analysis is a strategic tool used to evaluate the strengths, weaknesses
 
 **Strengths:**
 
-- Data Security and Immutability: Using the blockchain Scroll, the system ensures that data is stored securely and permanently, without the possibility of alteration or adulteration.
+- Data Security and Immutability: Using the blockchain Polygon, the system ensures that data is stored securely and permanently, without the possibility of alteration or adulteration.
 - Operational Transparency: Blockchain technology provides a high level of transparency, allowing all transactions to be accessible and verifiable by authorized parties, strengthening trust in the system.
-- Easy Implementation and Usability: The efficiency of the blockchain Scroll in terms of very low transaction fees, facilitating the real implementation of the project with low concern for gas fees, compared to conventional systems.
+- Easy Implementation and Usability: The efficiency of the blockchain Polygon in terms of very low transaction fees, facilitating the real implementation of the project with low concern for gas fees, compared to conventional systems.
 - Flexible Adaptation and Integration: The ability to integrate with existing systems and adapt to specific regulations makes the system versatile and applicable in various jurisdictions.
 
 **Weaknesses:**
@@ -379,7 +379,7 @@ contract PrisonerManagementSystem is Ownable {
 
 ```
 
-Moreover, MetaMask was chosen as the digital wallet technology, serving as a means for deployment directly on the Scroll test network. Within the project, it also acts as a gateway to allow users to interact with the Ethereum blockchain directly from their web browsers. It is an essential tool for facilitating secure access, providing a user-friendly interface to authenticate deployments. This significantly simplifies the interaction of prison agents with the system, allowing them to perform transactions and queries without requiring deep technical knowledge about smart contracts or blockchain.
+Moreover, MetaMask was chosen as the digital wallet technology, serving as a means for deployment directly on the Polygon test network. Within the project, it also acts as a gateway to allow users to interact with the Ethereum blockchain directly from their web browsers. It is an essential tool for facilitating secure access, providing a user-friendly interface to authenticate deployments. This significantly simplifies the interaction of prison agents with the system, allowing them to perform transactions and queries without requiring deep technical knowledge about smart contracts or blockchain.
 
 - Implementation of the Token for Loyalty
 
@@ -556,15 +556,15 @@ The integration of artificial intelligence in this blockchain application projec
 
 ## 👁️ Where to Look in the Code
 
-### Scroll
+### Polygon
 
-Contract: 0x6f152c6Bf0a8C692E66Fe7c1cf2C29b7d4eCE37a
+Contract: 0xEefE26d1630E33Eab9f3E1C7527cE9A260Ec078a
 
 <br/>
 
-Contract link on [Scroll Etherscan](https://sepolia.scrollscan.com/address/0x6f152c6Bf0a8C692E66Fe7c1cf2C29b7d4eCE37a#code)
+Contract link on [Cardona-zkevm Polygonscan](https://cardona-zkevm.polygonscan.com/address/0xEefE26d1630E33Eab9f3E1C7527cE9A260Ec078a)
 
-Scroll is a notably efficient blockchain platform, distinguished by its operational viability. We chose Scroll as the foundation for our project due to its extremely stable network and reduced gas fee costs, crucial elements for a viable and practical implementation in real-life scenarios. This strategic choice ensures that our application is not only sustainable but also broadly accessible, democratizing access to cutting-edge technologies in critical public administration systems and guaranteeing an innovative solution that promises to transform how we interact with vital governmental infrastructures.
+Polygon is a notably efficient blockchain platform, distinguished by its operational viability. We chose Polygon as the foundation for our project due to its extremely stable network and reduced gas fee costs, crucial elements for a viable and practical implementation in real-life scenarios. This strategic choice ensures that our application is not only sustainable but also broadly accessible, democratizing access to cutting-edge technologies in critical public administration systems and guaranteeing an innovative solution that promises to transform how we interact with vital governmental infrastructures.
 
 <a name="ourTeam"></a>
 
@@ -631,7 +631,7 @@ ___
 
 ⚖️ Promovendo justiça e humanidade no sistema penal brasileiro, Freedom Chain oferece uma visão transparente, segura e anônima do histórico comportamental dos presos, fortalecendo o processo de ressocialização e garantindo os direitos da população carcerária.
 
-⚙️ Solução desenvolvida usando NextJS, ReactJs, Typescript, Scroll
+⚙️ Solução desenvolvida usando NextJS, ReactJs, Typescript, Polygon
 
 ## Índice
 
@@ -724,9 +724,9 @@ A análise SWOT é uma ferramenta estratégica utilizada para avaliar os pontos 
 
 **Forças:**
 
-- Segurança e Imutabilidade dos Dados: Utilizando a blockchain Scroll, o sistema garante que os dados sejam armazenados de forma segura e permanente, sem possibilidade de alteração ou adulteração.
+- Segurança e Imutabilidade dos Dados: Utilizando a blockchain Polygon, o sistema garante que os dados sejam armazenados de forma segura e permanente, sem possibilidade de alteração ou adulteração.
 - Transparência Operacional: A tecnologia blockchain proporciona um alto nível de transparência, permitindo que todas as transações sejam acessíveis e verificáveis por partes autorizadas, fortalecendo a confiança no sistema.
-- Fácil Implementação e Usabilidade: A eficiência da blockchain Scroll em termos de taxas de transação muito baixas, facilitando a implementação real do projeto com baixa preocupação com gás fee, comparados com sistemas convencionais.
+- Fácil Implementação e Usabilidade: A eficiência da blockchain Polygon em termos de taxas de transação muito baixas, facilitando a implementação real do projeto com baixa preocupação com gás fee, comparados com sistemas convencionais.
 - Adaptação e Integração Flexíveis: A capacidade de integrar com sistemas existentes e adaptar-se a regulamentos específicos torna o sistema versátil e aplicável em diversas jurisdições.
 
 **Fraquezas:**
@@ -1001,7 +1001,7 @@ contract PrisonerManagementSystem is Ownable {
 }
 ```
 
-Ademais, foi escolhida a MetaMask como tecnologia de carteira digital, servindo como um meio para o deployment diretamente na [rede de teste da Scroll](https://sepolia.scrollscan.com/address/0xdF0e1E6101ec169Bd9d7D30ADFfB9a28cE6E2B41). Dentro do projeto, atua ainda como um gateway para permitir aos usuários interagir com a Ethereum blockchain diretamente de seus navegadores web. É uma ferramenta essencial para facilitar o acesso seguro, fornecendo uma interface de usuário amigável para autenticar os deploys. Isso simplifica significativamente a interação dos agentes carcerários com o sistema, permitindo que eles realizem transações e consultas sem necessitar de conhecimento técnico profundo sobre smart contracts ou blockchain.
+Ademais, foi escolhida a MetaMask como tecnologia de carteira digital, servindo como um meio para o deployment diretamente na [rede de teste da Polygon](https://cardona-zkevm.polygonscan.com/address/0xEefE26d1630E33Eab9f3E1C7527cE9A260Ec078a). Dentro do projeto, atua ainda como um gateway para permitir aos usuários interagir com a Ethereum blockchain diretamente de seus navegadores web. É uma ferramenta essencial para facilitar o acesso seguro, fornecendo uma interface de usuário amigável para autenticar os deploys. Isso simplifica significativamente a interação dos agentes carcerários com o sistema, permitindo que eles realizem transações e consultas sem necessitar de conhecimento técnico profundo sobre smart contracts ou blockchain.
 
 *Implementação do Token para Fidelização*
 
@@ -1187,16 +1187,15 @@ A integração da inteligência artificial neste projeto de aplicação blockcha
 
 ## 👁️ Onde Olhar no Código
 
-### Scroll
-
+### Polygon
 Contrato: 0x6f152c6Bf0a8C692E66Fe7c1cf2C29b7d4eCE37a 
 
 <br/>
 
 
-Link do contrato no [Scroll Etherscan](https://sepolia.scrollscan.com/address/0x6f152c6Bf0a8C692E66Fe7c1cf2C29b7d4eCE37a#code)
+Link do contrato no [Cardona-zkevm Polygonscan](https://cardona-zkevm.polygonscan.com/address/0xEefE26d1630E33Eab9f3E1C7527cE9A260Ec078a)
 
-A Scroll é uma plataforma blockchain notavelmente eficiente, que se destaca pela sua viabilidade operacional. Optamos pela Scroll como alicerce do nosso projeto devido à sua rede extremamente estável e aos custos de gas fee reduzidos, elementos cruciais para uma implementação viável e prática em cenários da vida real. Esta escolha estratégica assegura que nossa aplicação seja não apenas sustentável, mas também amplamente acessível, democratizando o acesso a tecnologias de ponta em sistemas críticos de administração pública e garantindo uma solução inovadora que promete transformar a maneira como interagimos com infraestruturas estatais vitais.
+A Polygon é uma plataforma blockchain notavelmente eficiente, que se destaca pela sua viabilidade operacional. Optamos pela Polygon como alicerce do nosso projeto devido à sua rede extremamente estável e aos custos de gas fee reduzidos, elementos cruciais para uma implementação viável e prática em cenários da vida real. Esta escolha estratégica assegura que nossa aplicação seja não apenas sustentável, mas também amplamente acessível, democratizando o acesso a tecnologias de ponta em sistemas críticos de administração pública e garantindo uma solução inovadora que promete transformar a maneira como interagimos com infraestruturas estatais vitais.
 
 <a name="nossaEquipe"></a>
 
