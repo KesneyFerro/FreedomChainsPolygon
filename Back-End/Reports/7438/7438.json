@@ -1,0 +1,25 @@
+{
+    "id_detento": "7438",
+    "historico": [
+      {
+        "data": "20/04/2023",
+        "comportamento": "Bom",
+        "comentário": "O detento demonstrou um interesse genuíno em sua reabilitação durante este período. Ele participou ativamente de aulas de alfabetização e concluiu a leitura de 2 livros."
+      },
+      {
+        "data": "05/06/2023",
+        "comportamento": "Ruim",
+        "comentário": "Houve um incidente durante o recreio, onde o detento se envolveu em uma discussão com outro detento sobre questões triviais."
+      },
+      {
+        "data": "15/08/2023",
+        "comportamento": "Bom",
+        "comentário": "O detento continuou a demonstrar um comportamento positivo. Ele ajudou na organização de um evento de conscientização sobre saúde mental para os detentos."
+      },
+      {
+        "data": "25/10/2023",
+        "comportamento": "Bom",
+        "comentário": "O detento recebeu uma menção especial por sua participação excepcional em atividades de reabilitação durante este mês."
+      }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+    "id_detento": "2396",
+    "historico": [
+        {
+            "data": "03/07/2023",
+            "comportamento": "Ruim",
+            "comentário": "O detento foi pego infringindo as regras da prisão ao ser encontrado com drogas ilegais em sua posse."
+        },
+        {
+            "data": "18/09/2023",
+            "comportamento": "Bom",
+            "comentário": "Houve uma notável melhoria no comportamento do detento durante este período. Ele participou de sessões de aconselhamento individual e demonstrou um desejo genuíno de mudança."
+        },
+        {
+            "data": "30/11/2023",
+            "comportamento": "Bom",
+            "comentário": "O detento continuou a progredir em sua reabilitação. Ele concluiu com sucesso um curso de habilidades de comunicação e ajudou na limpeza da área de visitação."
+        },
+        {
+            "data": "10/01/2024",
+            "comportamento": "Ruim",
+            "comentário": "Infelizmente, houve uma recaída em seu comportamento. O detento se envolveu em uma briga durante uma atividade esportiva, resultando em ferimentos leves."
+        }
+    ]
+}

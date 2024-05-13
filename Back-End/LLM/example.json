@@ -1,0 +1,28 @@
+{
+    "comentario": "comentário passado",
+    "data_comentario": "data do comentario no modelo dd/mm/yyyy",
+    "indices_bom_comportamento": [
+        "indice de bom comportamento 1",
+        "indice de bom comportamento 2",
+        "indice de bom comportamento 3"
+    ],
+    "indices_mau_comportamento": [
+        "indice de mau comportamento 1",
+        "indice de mau comportamento 2",
+        "indice de mau comportamento 3"
+    ],
+    "atividades_ressocializacao": {
+        "leitura": {
+            "livros_lidos": "Total de livros lidos",
+            "trecho": "Trecho do comentário que comprove que o detento leu tal quantidade de livros"
+        },
+        "estudo": {
+            "horas_estudo": "Total de horas de frequência escolar",
+            "trecho": "Trecho do comentário que comprove que o detento frequentou certa quantidade de horas de frequência escolar"
+        },
+        "trabalho": {
+            "dias_trabalhados": "Total de dias em que o detento trabalhou",
+            "trecho": "Trecho do comentário que comprove que o detento trabalhou certa quantidade de dias"
+        }
+    }
+}

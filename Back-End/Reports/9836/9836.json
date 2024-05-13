@@ -1,0 +1,20 @@
+{
+    "id_detento": "9863",
+    "historico": [
+        {
+            "data": "10/05/2023",
+            "comportamento": "Ruim",
+            "comentário": "O detento foi encontrado violando as regras da prisão ao tentar contrabandear itens ilegais em sua cela."
+        },
+        {
+            "data": "20/07/2023",
+            "comportamento": "Bom",
+            "comentário": "Houve uma melhoria notável no comportamento do detento durante este período. Ele participou ativamente de sessões de aconselhamento e demonstrou arrependimento."
+        },
+        {
+            "data": "05/09/2023",
+            "comportamento": "Ruim",
+            "comentário": "Novamente, o detento teve um comportamento inadequado ao se recusar a seguir as instruções dos guardas durante uma revista de rotina."
+        }
+    ]
+}

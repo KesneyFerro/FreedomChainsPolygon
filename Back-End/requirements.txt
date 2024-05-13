@@ -1,0 +1,5 @@
+fastapi[all]
+openai[all]
+pypandoc[all]
+pydantic[all]
+pdflatex[all]

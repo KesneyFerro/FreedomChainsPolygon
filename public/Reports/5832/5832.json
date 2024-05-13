@@ -1,0 +1,25 @@
+{
+    "id_detento": "5832",
+    "historico": [
+        {
+            "data": "01/03/2023",
+            "comportamento": "Bom",
+            "comentário": "O detento demonstrou um comportamento exemplar neste mês. Ele leu 3 livros, estudou por 10 horas e trabalhou durante 5 dias na biblioteca da prisão."
+        },
+        {
+            "data": "15/04/2023",
+            "comportamento": "Ruim",
+            "comentário": "Infelizmente, houve um incidente durante o banho de sol. O detento se envolveu em uma briga com outro detento, resultando em lesões leves."
+        },
+        {
+            "data": "28/06/2023",
+            "comportamento": "Bom",
+            "comentário": "Durante este período, o detento contribuiu significativamente para a comunidade prisional. Ele auxiliou na organização de uma campanha de arrecadação de alimentos."
+        },
+        {
+            "data": "10/09/2023",
+            "comportamento": "Bom",
+            "comentário": "O detento continuou a demonstrar um comportamento positivo. Ele leu mais 2 livros, estudou por 8 horas e ajudou na manutenção do jardim da prisão."
+        }
+    ]
+}
