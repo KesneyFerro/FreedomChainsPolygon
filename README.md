@@ -14,7 +14,11 @@ ___
 
 ### Pitch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xaboVlYkYhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video id="my-video" class="video-js" controls preload="auto" width="640" height="360" data-setup="{}">
+    <source src="./assets/PITCH.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 🎬 [Link to the Pitch](https://youtu.be/xaboVlYkYhM)
 
@@ -24,7 +28,10 @@ ___
 
 Navigating through Freedom Chains
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1hJH4Qg-MBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video id="my-video" class="video-js" controls preload="auto" width="640" height="360" data-setup="{}">
+    <source src="./assets/DEMO.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 🎬 [Link to the demonstration: Navigating through Freedom Chains](https://youtu.be/1hJH4Qg-MBw)
 
