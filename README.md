@@ -1217,7 +1217,7 @@ A integração da inteligência artificial neste projeto de aplicação blockcha
 ## 👁️ Onde Olhar no Código
 
 ### Polygon
-Contrato: 0x6f152c6Bf0a8C692E66Fe7c1cf2C29b7d4eCE37a 
+Contrato: 0xEefE26d1630E33Eab9f3E1C7527cE9A260Ec078a
 
 <br/>
 
