@@ -31,11 +31,15 @@ Navigating through Freedom Chains
 
 
 
-https://github.com/KesneyFerro/FreedomChainsPolygon/assets/80484719/459944a2-1440-4712-a090-1f02c73f2ecb
+
+
+https://github.com/KesneyFerro/FreedomChainsPolygon/assets/80484719/b3a4415f-9812-4828-a8f3-d1a9416ed4f3
 
 
 
-🎬 [Link to the demonstration: Navigating through Freedom Chains](https://youtu.be/1hJH4Qg-MBw)
+
+
+🎬 [Link to the demonstration: Navigating through Freedom Chains](https://www.youtube.com/watch?v=r4lotm-lQF8)
 
 
 <br>
