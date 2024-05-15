@@ -12,12 +12,32 @@ ___
 
 🎨 [Figma](https://www.figma.com/file/9Ru5jjxZA5mLomAgVARDsQ/FreedomChains?type=design&node-id=0%3A1&mode=design&t=zAf4jQXI7qiX4nqA-1)
 
-🎬 [Pitch](https://youtu.be/xaboVlYkYhM)
+### Pitch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xaboVlYkYhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+🎬 [Link to the Pitch](https://youtu.be/xaboVlYkYhM)
 
 <br>
 
-🎬 [Navigating through Freedom Chains](https://youtu.be/1hJH4Qg-MBw)
+### Demonstration
 
+Navigating through Freedom Chains
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1hJH4Qg-MBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+🎬 [Link to the demonstration: Navigating through Freedom Chains](https://youtu.be/1hJH4Qg-MBw)
+
+
+<br>
+
+<div style="max-width: 400px; padding: 20px; border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); background-color: #fff; margin: 0 auto;">
+    <h2 style="margin-top: 0; font-size: 20px;">FreedomChains</h2>
+    <p style="margin-bottom: 0;">Link to visit the platform FreedomChains</p>
+    <a href="https://freedom-chains-polygon.vercel.app/" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 12px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 4px; transition: background-color 0.3s;" >Visit Website</a>
+</div>
+
+<br>
  
 ⚖️ Promoting justice and humanity in the Brazilian penal system, Freedom Chains offers a transparent, secure, and anonymous view of prisoners' behavioral history, strengthening the resocialization process and ensuring the rights of the incarcerated population.
 
