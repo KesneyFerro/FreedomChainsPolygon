@@ -14,11 +14,12 @@ ___
 
 ### Pitch
 
+<br>
 
-<video id="my-video" class="video-js" controls preload="auto" width="640" height="360" data-setup="{}">
-    <source src="./assets/PITCH.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+https://github.com/KesneyFerro/FreedomChainsPolygon/assets/80484719/2275da82-9c75-4300-9f32-cc7a351dad2f
+
+<br>
 
 🎬 [Link to the Pitch](https://youtu.be/xaboVlYkYhM)
 
@@ -28,10 +29,11 @@ ___
 
 Navigating through Freedom Chains
 
-<video id="my-video" class="video-js" controls preload="auto" width="640" height="360" data-setup="{}">
-    <source src="./assets/DEMO.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+
+https://github.com/KesneyFerro/FreedomChainsPolygon/assets/80484719/459944a2-1440-4712-a090-1f02c73f2ecb
+
+
 
 🎬 [Link to the demonstration: Navigating through Freedom Chains](https://youtu.be/1hJH4Qg-MBw)
 
